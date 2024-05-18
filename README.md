@@ -8,7 +8,7 @@ This project is part of the COMP6200 Data Science unit. It involves the analysis
 
 The dataset includes a wealth of information for each user such as their profile, ID, gender, city of birth, product ratings (on a scale of 1-5), reviews, and the prices of the products they purchased. Moreover, for each product rating, we have information about the product name, ID, price, and category, the rating score, the timestamp of the rating and review, and the average helpfulness of the rating given by others (on a scale of 1-5).
 
-The dataset, originating from several data sources, has been merged into a single CSV file named 'A Combined E-commerce Dataset.csv'.
+The dataset, originating from several data sources, has been merged into a single CSV file named 'The E-commerce Dataset.csv'.
 
 ## Technologies Used
 
